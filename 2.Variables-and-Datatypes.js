@@ -74,6 +74,10 @@ function add(){
 
 }
 add();
+function naame(){
+    console.log("Chitvan");
+}
+naame();
 
 // we can store the function in variable
 
