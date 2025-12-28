@@ -29,3 +29,4 @@ Chapter 2 : Variables and Datatypes
 --> object litrals
 --> function
 
+Chapter 3 : Memory Management
